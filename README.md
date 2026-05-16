@@ -1,5 +1,7 @@
 This GPS watch project began from my interest in building a custom fitness device that records accurate run and cycle data and allows users to create and implement their own features.
 
+when I plugged the battery in, the charge chip got really hot, desoldered itself, and shifted. since usb power is routed through this chip, I can't work on it until I fix that, so this will be on hold for a little bit 
+
 # Hardware🖥️🔧
 ### V1.0 (an assembled board!) - based on [RP2040 minimal design](https://pip-assets.raspberrypi.com/categories/814-rp2040/documents/RP-008279-DS-1-hardware-design-with-rp2040.pdf?disposition=inline)
 - based on RP2040
